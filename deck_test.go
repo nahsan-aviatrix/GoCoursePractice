@@ -12,7 +12,7 @@ func TestNewDeck(t *testing.T) {
 	// mod file responsible for
 	// mod
 
-	d := newDeck()
+	d := NewDeck()
 
 	if len(d) != 16 {
 		// notify t something went wrong:
