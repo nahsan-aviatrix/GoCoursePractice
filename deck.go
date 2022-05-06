@@ -1,4 +1,4 @@
-package main
+package tangent
 
 import (
 	"fmt"
