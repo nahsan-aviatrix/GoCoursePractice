@@ -1,4 +1,4 @@
-package tangent
+package learning
 
 import "testing"
 
