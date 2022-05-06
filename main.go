@@ -4,4 +4,5 @@ func main() {
 	cards := NewDeck()
 	cards.Shuffle()
 	cards.Print()
+	cards.Print()
 }
