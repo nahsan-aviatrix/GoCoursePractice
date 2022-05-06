@@ -1,4 +1,4 @@
-package tangent
+package deck
 
 import "testing"
 
